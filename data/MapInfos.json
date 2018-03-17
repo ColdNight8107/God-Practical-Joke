@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"希弗爾大陸(小)","order":1,"parentId":0,"scrollX":868.5,"scrollY":552},
+{"id":2,"expanded":true,"name":"帕爾帝都：奇恩","order":5,"parentId":0,"scrollX":1901.142857142857,"scrollY":1261.7142857142856},
+{"id":3,"expanded":true,"name":"世界地圖：希弗爾大陸","order":2,"parentId":0,"scrollX":1051.5,"scrollY":540},
+{"id":4,"expanded":true,"name":"帕爾：弗洛醫院","order":6,"parentId":0,"scrollX":992.5714285714286,"scrollY":630.8571428571428},
+{"id":5,"expanded":true,"name":"神殿","order":4,"parentId":6,"scrollX":978.8571428571428,"scrollY":670.2857142857142},
+{"id":6,"expanded":true,"name":"第一章：異世界的新生","order":3,"parentId":0,"scrollX":992.5714285714286,"scrollY":630.8571428571428}
+]
